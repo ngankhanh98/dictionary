@@ -1,0 +1,5 @@
+Cat:  a small animal with fur, four legs, a tail, and claws, usually kept as a pet or 
+Cow:  a large female farm animal kept to produce meat and milk
+Dog: my friend
+Fish: the gill-bearing aquatic craniate animals that lack limbs with digits
+Mouse:  a small mammal with short fur, a pointed face, and a long tail

@@ -1,0 +1,4 @@
+Cat: a small animal with fur, four legs, a tail, and claws, usually kept as a pet or 
+Dog: a common animal with four legs, especially kept by people as a pet or to hunt or guard things
+Cow: a large female farm animal kept to produce meat and milk
+Mouse: a small mammal with short fur, a pointed face, and a long tail
